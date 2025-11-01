@@ -1,4 +1,4 @@
-### Автотесты для проверки API, сваггер - [[https://opensource-demo.orangehrmlive.com/web/index.php/auth/login](https://fakerestapi.azurewebsites.net/)](https://fakerestapi.azurewebsites.net/index.html)
+### Автотесты для проверки API, сваггер - https://fakerestapi.azurewebsites.net/index.html
 
 ### Реализованные сценарии
 
